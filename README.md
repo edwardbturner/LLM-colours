@@ -17,3 +17,7 @@ UPDATE 1:
 
 UPDATE 2:
     - 19:50 run on gemma-2B, nothing clear again although bit clearer grouping than gpt2 (especially in later layers), time to switch to pre-trained SAE! Just before that going to try gemma-9B, yeh okay still nothing clear.
+
+
+UPDATE 3:
+    - 20:50 got a gemma-2B SAE running, did not work as expected, time for some advice...
