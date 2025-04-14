@@ -9,3 +9,8 @@ Initially I am going to attempt to do this directly on the residual stream for t
 (1) Easier, no SAE training neeeded
 (2) Would be a stronger result to show the residual stream directly holds this 3D object
 (3) I will be using very clean prompts so I'm not too worried about superposiiton noise (perhaps a poor argument)
+
+We start at 18:35 on April 14th 2025.
+
+UPDATE 1:
+    - 19:30 have it working locally for gpt2-small, plot shows nothing clear, will try gemma 2B now
