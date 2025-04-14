@@ -16,4 +16,4 @@ UPDATE 1:
     - 19:30 have it working locally for gpt2-small, plot shows nothing clear, will try gemma 2B now
 
 UPDATE 2:
-    - 19:50 run on gemma-2B, nothing clear again, time to switch to pre-trained SAE!
+    - 19:50 run on gemma-2B, nothing clear again although bit clearer grouping than gpt2 (especially in later layers), time to switch to pre-trained SAE! Just before that going to try gemma-9B, yeh okay
